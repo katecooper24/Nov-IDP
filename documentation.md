@@ -19,3 +19,6 @@ Through this project, I learned to use this. which refers to the current object 
 
 
 When revising this project, I hope to first get it to work properly and also add a score and change the colors of the bird, pipes, and background.
+
+works cited:
+https://www.youtube.com/watch?v=cXgA1d_E-jY&t=26s
